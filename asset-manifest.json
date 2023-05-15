@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/testinggithubpages/static/css/main.6d701dfe.css",
+    "main.js": "/testinggithubpages/static/js/main.6c169837.js",
+    "index.html": "/testinggithubpages/index.html",
+    "static/media/delete.svg": "/testinggithubpages/static/media/delete.67697f56fd2f149bc9515a879062ad5c.svg",
+    "static/media/check.svg": "/testinggithubpages/static/media/check.23109d14544b9bb9b3d5d4e65ea13701.svg",
+    "main.6d701dfe.css.map": "/testinggithubpages/static/css/main.6d701dfe.css.map",
+    "main.6c169837.js.map": "/testinggithubpages/static/js/main.6c169837.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d701dfe.css",
+    "static/js/main.6c169837.js"
+  ]
+}
